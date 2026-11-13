@@ -468,7 +468,7 @@ According to Wireshark, this changes the contents of the `physicalCellGroupConfi
 
 The following product and firmware were tested and found to be affected by the vulnerabilities:
 
-* Smartphone: Smartphone: Apple iPhone 16e (Apple A18 SoC and Apple C1 Baseband)
+* Smartphone: Apple iPhone 16e (Apple A18 SoC, Apple C1 Baseband)
 * Firmware: iOS Version 26.3.1, Modem Firmware 2.03.08 (older versions may also be affected)
 
 SHA-256 hash of the affected iOS firmware image (bundled by Apple):
